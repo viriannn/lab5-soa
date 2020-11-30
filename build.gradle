@@ -1,0 +1,36 @@
+plugins {
+    id 'org.springframework.boot' version '2.3.3.RELEASE'
+    id 'io.spring.dependency-management' version '1.0.8.RELEASE'
+    id 'java'
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile("org.springframework.boot:spring-boot-starter-web")
+    compile("org.springframework.boot:spring-boot-starter-thymeleaf")
+    compile("org.apache.camel.springboot:camel-spring-boot-starter:3.6.0")
+    compile("org.apache.camel.springboot:camel-twitter-starter:3.6.0")
+    compile("org.webjars.bowergithub.twbs:bootstrap:3.3.7")
+    compile("org.webjars.bowergithub.janl:mustache.js:3.0.1")
+}
+
+task zip(type: Zip) {
+    from '.'
+    into '.'
+    exclude '.classpath'
+    exclude '.project'
+    exclude '.gradle'
+    exclude '.settings'
+    exclude 'bin'
+    exclude 'build'
+    filter { line -> line.startsWith('twitter.consumerKey=') ? 'twitter.consumerKey=<<ask Twitter for a key>>' : line }
+    filter { line -> line.startsWith('twitter.consumerSecret=') ? 'twitter.consumerSecret=<<ask Twitter for a key>>' : line }
+    filter { line -> line.startsWith('twitter.accessToken=') ? 'twitter.accessToken=<<ask Twitter for a key>>' : line }
+    filter { line -> line.startsWith('twitter.accessTokenSecret=') ? 'twitter.accessTokenSecret=<<ask Twitter for a key>>' : line }
+}
