@@ -20,6 +20,10 @@ Note: the Twitter Search endpoint is configured using URI syntax `twitter-search
 
 ## Secondary goals (:gift:)
 
+In progress:
+
+- [Create an operator "-" to filter out tweets that contain a keyword](https://camel.apache.org/components/latest/eips/filter-eip.html) 
+
 Proposed:
 
 - [Use Camel for providing a REST endpoint for queries](https://camel.apache.org/components/latest/rest-component.html); current client should work.
@@ -38,4 +42,5 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 |NIA    | User name | Repo | Improvement | Score  |
 |-------|-----------|------|-------------|--------|
 | 758267 | [Pedro Allué](https://github.com/piter1902) |  [piter1902/lab5-soa](https://github.com/piter1902/lab5-soa/tree/test)    |             |        | 
+| 760704 | [Álvaro García](https://github.com/Alvarogd6) | [Alvarogd6/lab5-soa](https://github.com/Alvarogd6/lab5-soa/tree/test) |    |    | 
 | 757755 | [Andrés Otero García](https://github.com/andrewknoll) |  [andrewknoll/lab5-soa](https://github.com/andrewknoll/lab5-soa/tree/test)    |[Create an operator "-" to filter out tweets that contain a keyword](https://camel.apache.org/components/latest/eips/filter-eip.html)             |        | 
