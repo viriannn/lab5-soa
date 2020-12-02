@@ -39,3 +39,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 |NIA    | User name | Repo | Improvement | Score  |
 |-------|-----------|------|-------------|--------|
 | 758267 | [Pedro Allué](https://github.com/piter1902) |  [piter1902/lab5-soa](https://github.com/piter1902/lab5-soa/tree/test)    |             |        | 
+| 760704 | [Álvaro García](https://github.com/Alvarogd6) | [Alvarogd6/lab5-soa](https://github.com/Alvarogd6/lab5-soa/tree/test) |    |    | 
