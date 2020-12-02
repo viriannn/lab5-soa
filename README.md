@@ -38,4 +38,6 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 |NIA    | User name | Repo | Improvement | Score  |
 |-------|-----------|------|-------------|--------|
-|       |           |      |             |        | 
+| 758267 | [Pedro Allué](https://github.com/piter1902) |  [piter1902/lab5-soa](https://github.com/piter1902/lab5-soa/tree/test)    |             |        | 
+| 758906 |[rauljavierre](https://github.com/rauljavierre)|[rauljavierre/lab5-soa](https://github.com/rauljavierre/lab5-soa/tree/test)|[Use Camel for keeping a copy of responses in a database](https://camel.apache.org/components/latest/jdbc-component.html)||
+|
