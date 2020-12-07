@@ -27,10 +27,10 @@ Done:
 In progress:
 
 - [Create an operator "-" to filter out tweets that contain a keyword](https://camel.apache.org/components/latest/eips/filter-eip.html) 
+- [Use Camel for providing a REST endpoint for queries](https://camel.apache.org/components/latest/rest-component.html); current client should work.
 
 Proposed:
 
-- [Use Camel for providing a REST endpoint for queries](https://camel.apache.org/components/latest/rest-component.html); current client should work.
 - [Use Camel for providing a WebSocked endpoint for queries](https://camel.apache.org/components/latest/websocket-jsr356-component.html); a websocket client is required.
 - [Enrich the response with moustache](https://camel.apache.org/components/latest/eips/content-enricher.html); remove moustache from the client.
 - [Throttle the route to avoid be banned by Twitter](https://camel.apache.org/components/latest/eips/throttle-eip.html)
@@ -50,4 +50,5 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 758906 | [rauljavierre](https://github.com/rauljavierre)|[rauljavierre/lab5-soa](https://github.com/rauljavierre/lab5-soa/tree/test)|[Use Camel for keeping a copy of responses in a database](https://camel.apache.org/components/latest/jdbc-component.html)||
 | 757153 | [Fran-sw](https://github.com/Fran-sw) |[lab5-soa](https://github.com/Fran-sw/lab5-soa/tree/test)     |        | 
 | 758803 | [Daniel González](https://github.com/Uncastellum) | [Uncastellum/lab5-soa](https://github.com/Uncastellum/lab5-soa/tree/test) |    |    | 
+| 760739 | [Alberto Calvo](https://github.com/AlbertoCalvoRubio) | [AlbertoCalvoRubio/lab5-soa](https://github.com/AlbertoCalvoRubio/lab5-soa/tree/test) |[Use Camel for providing a REST endpoint for queries](https://camel.apache.org/components/latest/rest-component.html)   |    | 
 | 761319 | [Markles01](https://github.com/Markles01) |[lab5-soa](https://github.com/Markles01/lab5-soa/tree/test)     |        | 
