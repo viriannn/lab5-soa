@@ -38,4 +38,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 |NIA    | User name | Repo | Improvement | Score  |
 |-------|-----------|------|-------------|--------|
-| 756123 | [Rogelio Antonio Lacruz Mirallas](https://github.com/RogorStuff) |  [RogorStuff/lab5-soa](https://github.com/RogorStuff/lab5-soa)| ||
+| 756123 | [Rogelio Antonio Lacruz Mirallas](https://github.com/RogorStuff) |  [RogorStuff/lab5-soa](https://github.com/RogorStuff/lab5-soa/tree/test)| ||
