@@ -55,3 +55,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 757715 | [Hayk Kocharyan](https://github.com/hayk99) |  [hayk99/lab5-soa](https://github.com/hayk99/lab5-soa/tree/test)    |             |        | 
 | 755742 | [jtambo99](https://github.com/jtambo99) |[jtambo99/lab5-soa](https://github.com/jtambo99/lab5-soa/tree/test)     |        | 
 | 766685 | [Enrique Ruiz](https://github.com/TheRealFreeman) | [TheRealFreeman/lab5-soa](https://github.com/TheRealFreeman/lab5-soa/tree/test) | Use Camel for providing a WebSocked endpoint for queries|    | 
+| 756123 | [Rogelio Antonio Lacruz Mirallas](https://github.com/RogorStuff) |  [RogorStuff/lab5-soa](https://github.com/RogorStuff/lab5-soa/tree/test)| ||
