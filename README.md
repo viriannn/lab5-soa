@@ -59,3 +59,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 756123 | [Rogelio Antonio Lacruz Mirallas](https://github.com/RogorStuff) |  [RogorStuff/lab5-soa](https://github.com/RogorStuff/lab5-soa/tree/test)| ||
 | 758325 | [Irene Fumanal Lacoma](https://github.com/irefu) |[irefu/lab5-soa](https://github.com/irefu/lab5-soa/tree/test)     |        | 
 | 740491 | [José Ignacio Hernández](https://github.com/740491) |[740491/lab5-soa](https://github.com/740491/lab5-soa/tree/test)     |        | 
+| 738845 | [Víctor Martínez](https://github.com/viriannn) |[viriannn/lab5-soa](https://github.com/viriannn/lab5-soa/tree/test)     |        | 
